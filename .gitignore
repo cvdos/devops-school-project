@@ -1,5 +1,5 @@
-*.tfstate
-*.tfstate.backup
-dos-key
-dos-key.pub
-/.terraform
+/infrastructure/*.tfstate
+/infrastructure/*.tfstate.backup
+/infrastructure/dos-key
+/infrastructure/dos-key.pub
+/infrastructure/.terraform
